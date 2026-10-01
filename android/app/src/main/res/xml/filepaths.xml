@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Directorio interno privado de la aplicación (Scoped Storage) -->
+    <files-path name="internal_files" path="." />
+    <!-- Directorio de caché interno -->
+    <cache-path name="internal_cache" path="." />
+    <!-- Almacenamiento externo privado de la app -->
+    <external-files-path name="external_files" path="." />
+    <external-cache-path name="external_cache" path="." />
+</paths>
